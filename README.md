@@ -1,7 +1,8 @@
 ### Hi, I'm Slupz 👋
 
-- 🎓 I'm currently learning about Html and CSS
-- 🥅 2021 Goals: Learn 100% about the language I'm studing
+- 🎓 I'm currently learning Html & css
+- 💫 2021 Goals: Learn 100% about the language I'm studing
+- 📚 Student
 - 🌙 Contact: Slupz#7838
 
 <br />
