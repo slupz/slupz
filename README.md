@@ -23,4 +23,3 @@
 [youtube]: https://www.youtube.com/channel/UCPQWslRgjzp9QFwoX5naWEQ
 
 
-<img src="https://cdn.discordapp.com/attachments/819565504078807080/819567426131066910/tumblr_d0562c92189cf573fc7679abe5ab5fdc_f675916b_400.gif">
