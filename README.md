@@ -7,7 +7,7 @@
 
 <h3 align="left">Get in touch:</h3>
 <p align="left">
-<a href="https://instagram.com/lure_dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="lure_dev" height="30" width="40" /></a>
+<a href="https://discord.gg/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="lure_dev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
