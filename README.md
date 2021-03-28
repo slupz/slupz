@@ -1,6 +1,3 @@
-<h1 align="center">Hello! 👋, I'm Slupz!</h1>
-<h3 align="center">A 14yo kid who likes to code.</h3>
-<br>
 
 ## Languages
 
