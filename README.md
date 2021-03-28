@@ -4,8 +4,8 @@
 
 ## Languages
 
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/html-original.svg" />
-<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/css-original.svg" />
+<img align="left" alt="html" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/html-original.svg" />
+<img align="left" alt="Css" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/css-original.svg" />
 
 <br />
 
